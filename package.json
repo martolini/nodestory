@@ -1,0 +1,14 @@
+{
+  "name": "maplejs",
+  "version": "1.0.0",
+  "description": "nodejs implementation of maplestory v83",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "martolini",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^5.8.29"
+  }
+}
